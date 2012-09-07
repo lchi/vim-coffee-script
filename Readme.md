@@ -1,3 +1,9 @@
+This is a slightly modified version of [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
+that was slightly patched to support the await and defer keywords in
+[IcedCoffeeScript](http://maxtaco.github.com/coffee-script/).
+
+----------------------
+
 This project adds [CoffeeScript] support to the vim editor. It handles syntax,
 indenting, compiling, and more. Also included is an [eco] syntax and support for
 CoffeeScript in Haml and HTML.
